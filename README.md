@@ -5,6 +5,8 @@ This repository is for showing how Git and GitHub work
 Adding more stence here
 Adding a line to rebasing example, then more change from myfutre branch too
 
+Update fix after our stash
+
 ## Introduction
 
 This is Introduction
