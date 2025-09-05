@@ -19,6 +19,8 @@ And now we are here
 
 Mais uma modificação que vai apenas para o stage area
 
+Please fork this repository
+
 ## Colocando uma ultima seção
 
 Acresentando mais alguma coisa nesta ultima seção
