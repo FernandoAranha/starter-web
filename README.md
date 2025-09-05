@@ -30,4 +30,4 @@ Acresentando mais alguma coisa nesta ultima seção
 
 ### Copyright
 
-2014 Git.Traning
+2014 Git.Traning APPROVE ALL RIGHTS
