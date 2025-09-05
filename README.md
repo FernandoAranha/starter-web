@@ -22,3 +22,7 @@ Mais uma modificação que vai apenas para o stage area
 ## Colocando uma ultima seção
 
 Acresentando mais alguma coisa nesta ultima seção
+
+### Copyright
+
+2014 Git.Traning
